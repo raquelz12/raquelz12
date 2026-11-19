@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Raquel
 
-<!--
-**raquelz12/raquelz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Engineer. Me gusta construir productos de principio a fin
+y cada vez me interesa más el mundo de los datos.
 
-Here are some ideas to get you started:
+## Stack
+**Frontend:** React · TypeScript · HTML/CSS
+**Backend:** Node.js · Express · SQL
+**Calidad:** Selenium · Vitest · Jenkins · Docker
+**Otros:** Git · GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- **[SaaS-O-Matic](https://github.com/raquelz12/saas-o-matic)**: simulador de suscripciones SaaS multi-divisa,
+  desarrollado con Spec-Driven Development y asistencia de IA.
+- **[TFG: automatización de pruebas funcionales](https://github.com/raquelz12/TFGFinanceApp)**: Selenium, Jenkins y Docker.
+- **[RVWD](https://github.com/raquelz12/RVWD)**: actualmente trabajando en esta red social musical.
+
+## Títulos
+- Ingeniería Informática, UEMC
+- C1, Cambridge
+
+## Contacto
+[LinkedIn](www.linkedin.com/in/raquel-arnaiz-minguez)
